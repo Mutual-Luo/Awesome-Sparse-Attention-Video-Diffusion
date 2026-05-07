@@ -28,7 +28,7 @@
 
 2. **Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering**  
    Jiayi Luo, Jiayu Chen, Jiankun Wang, Cong Wang, Hanxin Zhu, Qingyun Sun, Chen Gao, Zhibo Chen, Jianxin Li  
-   ![ICML 2026](https://img.shields.io/badge/Venue-ICML%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2603.18636)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/Mutual-Luo)
+   ![ICML 2026](https://img.shields.io/badge/Venue-ICML%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2603.18636)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/Mutual-Luo/SVOO)
 
 3. **Veda: Scalable Video Diffusion via Distilled Sparse Attention**  
    Shihao Han, Hao Yang, Xinting Hu, Xiaofeng Mei, Yi Jiang, Xiaojuan Qi  
