@@ -1,0 +1,64 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="active" x1="45" y1="38" x2="142" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="14" y="14" width="152" height="152" rx="34" fill="#F8FAFC"/>
+  <rect x="14.5" y="14.5" width="151" height="151" rx="33.5" stroke="#E5E7EB"/>
+
+  <g transform="translate(39 39)">
+    <rect x="0" y="0" width="102" height="102" rx="14" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+
+    <g stroke="#E2E8F0" stroke-width="1">
+      <path d="M17 1V101"/>
+      <path d="M34 1V101"/>
+      <path d="M51 1V101"/>
+      <path d="M68 1V101"/>
+      <path d="M85 1V101"/>
+      <path d="M1 17H101"/>
+      <path d="M1 34H101"/>
+      <path d="M1 51H101"/>
+      <path d="M1 68H101"/>
+      <path d="M1 85H101"/>
+    </g>
+
+    <g opacity="0.95">
+      <rect x="5" y="5" width="13" height="13" rx="3" fill="url(#active)" filter="url(#glow)"/>
+      <rect x="22" y="22" width="13" height="13" rx="3" fill="url(#active)" filter="url(#glow)"/>
+      <rect x="39" y="39" width="13" height="13" rx="3" fill="url(#active)" filter="url(#glow)"/>
+      <rect x="56" y="56" width="13" height="13" rx="3" fill="url(#active)" filter="url(#glow)"/>
+      <rect x="73" y="73" width="13" height="13" rx="3" fill="url(#active)" filter="url(#glow)"/>
+      <rect x="22" y="56" width="13" height="13" rx="3" fill="#93C5FD"/>
+      <rect x="56" y="22" width="13" height="13" rx="3" fill="#86EFAC"/>
+      <rect x="73" y="39" width="13" height="13" rx="3" fill="#BFDBFE"/>
+      <rect x="39" y="73" width="13" height="13" rx="3" fill="#BBF7D0"/>
+    </g>
+
+    <g fill="#EEF2F7">
+      <rect x="5" y="22" width="13" height="13" rx="3"/>
+      <rect x="5" y="56" width="13" height="13" rx="3"/>
+      <rect x="22" y="5" width="13" height="13" rx="3"/>
+      <rect x="39" y="22" width="13" height="13" rx="3"/>
+      <rect x="56" y="73" width="13" height="13" rx="3"/>
+      <rect x="73" y="5" width="13" height="13" rx="3"/>
+      <rect x="90" y="56" width="7" height="13" rx="3"/>
+      <rect x="5" y="90" width="13" height="7" rx="3"/>
+    </g>
+
+    <path d="M11.5 11.5L28.5 28.5L45.5 45.5L62.5 62.5L79.5 79.5" stroke="#2563EB" stroke-width="2.5" stroke-linecap="round" opacity="0.55"/>
+    <path d="M28.5 62.5L62.5 28.5L79.5 45.5L45.5 79.5" stroke="#16A34A" stroke-width="2.5" stroke-linecap="round" opacity="0.55"/>
+  </g>
+
+  <path d="M44 146H136" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+  <path d="M62 154H118" stroke="#E2E8F0" stroke-width="3" stroke-linecap="round"/>
+</svg>
