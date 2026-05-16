@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Training--Free-19-f8fafc?style=flat-square&labelColor=e5e7eb&color=dbeafe" alt="Training-Free Papers">
+  <img src="https://img.shields.io/badge/Training--Free-20-f8fafc?style=flat-square&labelColor=e5e7eb&color=dbeafe" alt="Training-Free Papers">
   <img src="https://img.shields.io/badge/Training--Based-9-f8fafc?style=flat-square&labelColor=e5e7eb&color=dcfce7" alt="Training-Based Papers">
-  <img src="https://img.shields.io/badge/Total-28-f8fafc?style=flat-square&labelColor=e5e7eb&color=fce7f3" alt="Total Papers">
+  <img src="https://img.shields.io/badge/Total-29-f8fafc?style=flat-square&labelColor=e5e7eb&color=fce7f3" alt="Total Papers">
 </p>
 
 ---
@@ -74,27 +74,31 @@
    Haoyue Tan, Shengnan Wang, Yulin Qiao, Juncheng Zhang, Youhui Bai, Ping Gong, Zewen Jin, Cheng Li  
    ![arXiv 2026](https://img.shields.io/badge/Venue-arXiv%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2604.18348)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/USTC-MLSys/Adacluster)
 
-14. **Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation**  
+14. **HASTE: Training-Free Video Diffusion Acceleration via Head-Wise Adaptive Sparse Attention**  
+   Xuzhe Zheng, Yuexiao Ma, Jing Xu, Xiawu Zheng, Rongrong Ji, Fei Chao  
+   ![arXiv 2026](https://img.shields.io/badge/Venue-arXiv%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2605.14513)
+
+15. **Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation**  
    Boxun Xu, Yuming Du, Zichang Liu, Siyu Yang, Ziyang Jiang, Siqi Yan, Rajasi Saha, Albert Pumarola, Wenchen Wang, Peng Li  
    ![arXiv 2026](https://img.shields.io/badge/Venue-arXiv%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2604.21221)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://boxunxu.top/SparseForcing/)
 
-15. **Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation**  
+16. **Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation**  
    Qirui Li, Guangcong Zheng, Qi Zhao, Jie Li, Bin Dong, Yiwu Yao, Xi Li  
    ![arXiv 2025](https://img.shields.io/badge/Venue-arXiv%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2508.12969)
 
-16. **DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance**  
+17. **DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance**  
    Xuan Shen, Chenxia Han, Yufa Zhou, Yanyue Xie, Yifan Gong, Quanyi Wang, Yiwei Wang, Yanzhi Wang, Pu Zhao, Jiuxiang Gu  
    ![arXiv 2025](https://img.shields.io/badge/Venue-arXiv%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2505.14708)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/shawnricecake/draft-attention)
 
-17. **FlashOmni: A Unified Sparse Attention Engine for Diffusion Transformers**  
+18. **FlashOmni: A Unified Sparse Attention Engine for Diffusion Transformers**  
    Liang Qiao, Yue Dai, Yeqi Huang, Hongyu Kan, Jun Shi, Hong An  
    ![arXiv 2025](https://img.shields.io/badge/Venue-arXiv%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2509.25401)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/qiaolian9/FlashOmni)
 
-18. **RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention**  
+19. **RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention**  
    Aiyue Chen, Yaofu Liu, Junjian Huang, Guang Lian, Yiwu Yao, Wangli Lan, Jing Lin, Zhixin Ma, Tingting Zhou  
    ![arXiv 2025](https://img.shields.io/badge/Venue-arXiv%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2512.24086)
 
-19. **RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy**  
+20. **RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy**  
    Aiyue Chen, Bin Dong, Jingru Li, Jing Lin, Kun Tian, Yiwu Yao, Gongyi Wang  
    ![arXiv 2025](https://img.shields.io/badge/Venue-arXiv%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2505.21036v2)
 
