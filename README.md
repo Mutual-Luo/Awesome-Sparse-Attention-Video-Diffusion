@@ -14,8 +14,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Training--Free-20-f8fafc?style=flat-square&labelColor=e5e7eb&color=dbeafe" alt="Training-Free Papers">
-  <img src="https://img.shields.io/badge/Training--Based-9-f8fafc?style=flat-square&labelColor=e5e7eb&color=dcfce7" alt="Training-Based Papers">
-  <img src="https://img.shields.io/badge/Total-29-f8fafc?style=flat-square&labelColor=e5e7eb&color=fce7f3" alt="Total Papers">
+  <img src="https://img.shields.io/badge/Training--Based-10-f8fafc?style=flat-square&labelColor=e5e7eb&color=dcfce7" alt="Training-Based Papers">
+  <img src="https://img.shields.io/badge/Total-30-f8fafc?style=flat-square&labelColor=e5e7eb&color=fce7f3" alt="Total Papers">
 </p>
 
 ---
@@ -108,35 +108,39 @@
    Peiyuan Zhang, Guoqiang Wei, Yilong Zhao, Zixiang Zhang, Wei Zhou, Will Lin, Heng Zhang, Xiaonan Nie, Yan Zeng, Hao Zhang  
    ![ICML 2026](https://img.shields.io/badge/Venue-ICML%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://icml.cc/virtual/2026/poster/66323)
 
-2. **SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse-Linear Attention**  
+2. **Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**  
+   Chengtao Lv, Yumeng Shi, Yushi Huang, Ruihao Gong, Shen Ren, Wenya Wang  
+   ![ICML 2026](https://img.shields.io/badge/Venue-ICML%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2602.04789)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/chengtao-lv/LightForcing)
+
+3. **SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse-Linear Attention**  
    Jintao Zhang, Haoxu Wang, Kai Jiang, Shuo Yang, Kaiwen Zheng, Haocheng Xi, Ziteng Wang, Hongzhou Zhu, Min Zhao, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu  
    ![ICLR 2026](https://img.shields.io/badge/Venue-ICLR%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2509.24006)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/thu-ml/SLA)
 
-3. **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
+4. **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
    Akide Liu, Zeyu Zhang, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang, Gholamreza Haffari, Bohan Zhuang  
    ![NeurIPS 2025](https://img.shields.io/badge/Venue-NeurIPS%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2506.04648)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://fps.ziplab.co/)
 
-4. **VORTA: Efficient Video Diffusion via Routing Sparse Attention**  
+5. **VORTA: Efficient Video Diffusion via Routing Sparse Attention**  
    Wenhao Sun, Rong-Cheng Tu, Yifu Ding, Zhao Jin, Jingyi Liao, Shunyu Liu, Dacheng Tao  
    ![NeurIPS 2025](https://img.shields.io/badge/Venue-NeurIPS%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/abs/2505.18809)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/wenhao728/VORTA)
 
-5. **VSA: Faster Video Diffusion with Trainable Sparse Attention**  
+6. **VSA: Faster Video Diffusion with Trainable Sparse Attention**  
    Peiyuan Zhang, Yongqi Chen, Haofeng Huang, Will Lin, Zhengzhong Liu, Ion Stoica, Eric Xing, Hao Zhang  
    ![NeurIPS 2025](https://img.shields.io/badge/Venue-NeurIPS%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2505.13389)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://github.com/hao-ai-lab/FastVideo)
 
-6. **SLA2: Sparse-Linear Attention with Learnable Routing and QAT**  
+7. **SLA2: Sparse-Linear Attention with Learnable Routing and QAT**  
    Jintao Zhang, Haoxu Wang, Kai Jiang, Kaiwen Zheng, Youhe Jiang, Ion Stoica, Jianfei Chen, Jun Zhu, Joseph E. Gonzalez  
    ![arXiv 2026](https://img.shields.io/badge/Venue-arXiv%202026-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2602.12675)
 
-7. **Attention surgery: An efficient recipe to linearize your video diffusion transformer**  
+8. **Attention surgery: An efficient recipe to linearize your video diffusion transformer**  
    Mohsen Ghafoorian, Denis Korzhenkov, Amirhossein Habibian  
    ![arXiv 2025](https://img.shields.io/badge/Venue-arXiv%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2509.24899)
 
-8. **SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer**  
+9. **SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer**  
    Junsong Chen, Yuyang Zhao, Jincheng Yu, Ruihang Chu, Junyu Chen, Shuai Yang, Xianbang Wang, Yicheng Pan, Daquan Zhou, Huan Ling, Haozhe Liu, Hongwei Yi, Hao Zhang, Muyang Li, Yukang Chen, Han Cai, Sanja Fidler, Ping Luo, Song Han, Enze Xie  
    ![arXiv 2025](https://img.shields.io/badge/Venue-arXiv%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/pdf/2509.24695)&nbsp;[![Code Link](https://img.shields.io/badge/%5BCode%20Link%5D-Code-b7f7c8?style=flat-square&logo=github&logoColor=15803d&labelColor=ecfdf3)](https://nvlabs.github.io/Sana/Video)
 
-9. **Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers**  
+10. **Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers**  
    Yifan Zhou, Zeqi Xiao, Tianyi Wei, Shuai Yang, Xingang Pan  
    ![arXiv 2025](https://img.shields.io/badge/Venue-arXiv%202025-e5e7eb?style=flat-square&labelColor=f8fafc&color=e5e7eb)&nbsp;[![Paper Link](https://img.shields.io/badge/%5BPaper%20Link%5D-PDF-bfe3ff?style=flat-square&logo=readme&logoColor=2563eb&labelColor=eaf6ff)](https://arxiv.org/abs/2512.16615)
 
