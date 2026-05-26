@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Total-32-f8fafc?style=flat-square&labelColor=e5e7eb&color=fce7f3" alt="Total Papers">
 </p>
 
+<p align="center">
+  <sub><em><span style="color:rgba(107,114,128,0.62);">Sorted by accepted venues first, then arXiv, year descending, venue grouping, and paper title.</span></em></sub>
+</p>
+
 ---
 
 ## Training-Free Methods
@@ -157,5 +161,3 @@
 <p align="center">
   <strong>Corrections, additions, and updates are warmly welcome.</strong>
 </p>
-
-
